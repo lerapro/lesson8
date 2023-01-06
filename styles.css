@@ -1,0 +1,8 @@
+.transform{
+    text-transform: inherit; /* Caps */
+    text-indent: 20%; /* отступы(абзатц) */
+    white-space:pre; /* пробел между словами */
+    font-weight: 900;
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    font-family: 'EB Garamond', serif;
+}   
